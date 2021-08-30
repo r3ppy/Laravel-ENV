@@ -3,6 +3,8 @@
 
 **Extracting: DB, DOSpace, RtPlaid, Pusher, SSLCZ, PayStack, InstaMojo, PayTM, Stripe, Nexmo, Twilio, MailChimp, SMTP, AWS_KEY, Cpanel, Root, Reseller, Shells**
 
+**Note: Im Not Responsible For Any Illegal Use ..**
+
 # Setup
 ```
 $ pip install colored
