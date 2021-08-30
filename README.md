@@ -12,4 +12,4 @@ $ pip install requests
 # ScreenShot
 ![Alt text](https://cdn.discordapp.com/attachments/808433103348432928/881823842010537994/ENV.png) 
 
-Coded With Love By R3ppy ❤️
+**Coded With Love By R3ppy ❤️**
